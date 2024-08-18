@@ -1,3 +1,7 @@
-# Settings up name/email for a single repo [Link](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address#setting-your-email-address-for-a-single-repository)
+# Settings up name/email for a single repo 
 git config user.name "name"
 git config user.email "email"
+
+# References
+https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address#setting-your-email-address-for-a-single-repository
+https://code.tutsplus.com/quick-tip-how-to-work-with-github-and-multiple-accounts--net-22574t
