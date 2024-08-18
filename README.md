@@ -3,11 +3,9 @@
 * My email: <rstoltzm@gmail.com>
 * My LinkedIn: [LinkedIn](https://www.linkedin.com/in/ryan-stoltzmann/)
 
-## Projects
-
-### Docker
+## Work
 
 | # | Name | Repo |
 | - | ---- | ----------- |
-| 1 | Simple Docker Testing | [Link](https://github.com/rstoltzm-profile/docker-testing) |
-| 2 | Kafka Container | [Link](https://github.com/rstoltzm-profile/KafkaProject) |
+| 1 | Docker Projects | [Link](https://github.com/rstoltzm-profile/portfolio/blob/main/projects/Docker.md) |
+| 2 | empty | [Link](empty) |
