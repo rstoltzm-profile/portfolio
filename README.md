@@ -5,6 +5,3 @@
 ### Docker
 1. Simple Docker Testing [Link](https://github.com/rstoltzm-profile/docker-testing)
 2. Kafka Container [Link](https://github.com/rstoltzm-profile/KafkaProject)
-
-## References
-* markdown cheat-sheet [Link](https://www.markdownguide.org/cheat-sheet/)
