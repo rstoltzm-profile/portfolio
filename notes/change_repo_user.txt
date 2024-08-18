@@ -1,4 +1,4 @@
-# Settings up name/email for a single repo 
+# Setting up name/email for a single repo 
 git config user.name "name"
 git config user.email "email"
 
