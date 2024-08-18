@@ -1,6 +1,6 @@
-# rstoltzm-portfolio
+# Portfolio
 
-# Projects
+## Projects
 
-## Docker
+### Docker
 1. Simple Docker Testing [Link](https://github.com/rstoltzm-profile/docker-testing)
