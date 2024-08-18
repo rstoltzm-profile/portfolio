@@ -1,4 +1,6 @@
-# Portfolio
+# Ryan Stoltzmann's Portfolio
+
+[LinkedIn](https://www.linkedin.com/in/ryan-stoltzmann/)
 
 ## Projects
 
