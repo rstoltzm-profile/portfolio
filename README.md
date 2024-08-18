@@ -8,4 +8,4 @@
 | # | Name | Repo |
 | - | ---- | ----------- |
 | 1 | Docker Projects | [Link](https://github.com/rstoltzm-profile/portfolio/blob/main/projects/Docker.md) |
-| 2 | Python Projects | [Link](empty) |
+| 2 | Python Projects | [Link](https://github.com/rstoltzm-profile/portfolio/blob/main/projects/Python.md) |
