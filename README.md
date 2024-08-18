@@ -1,6 +1,7 @@
 # Ryan Stoltzmann's Portfolio
 
-[LinkedIn](https://www.linkedin.com/in/ryan-stoltzmann/)
+* email: rstoltzm@gmail.com
+* [LinkedIn](https://www.linkedin.com/in/ryan-stoltzmann/)
 
 ## Projects
 
