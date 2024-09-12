@@ -5,3 +5,18 @@ git config user.email "email"
 # References
 https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address#setting-your-email-address-for-a-single-repository
 https://code.tutsplus.com/quick-tip-how-to-work-with-github-and-multiple-accounts--net-22574t
+
+# Linux
+1. go to ~/.ssh/
+2. drop your keys into here
+3. update config file or create new one
+4. now you can use this to clone
+5. git clone git@github_personal:user/repo.git
+
+"""
+host github_personal
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/id_rsa_name
+"""
+
