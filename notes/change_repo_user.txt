@@ -20,3 +20,19 @@ host github_personal
     IdentityFile ~/.ssh/id_rsa_name
 """
 
+# push to github_personal
+
+Initialize the Git repository with the main branch:
+git init -b main
+
+Add your files to the repository:
+git add .
+
+Commit the files:
+git commit -m "Initial commit"
+
+Add the remote repository:
+git remote add origin git@github_personal:rstoltzm-profile/link.git
+
+Push the changes to the remote repository:
+git push -u origin main
