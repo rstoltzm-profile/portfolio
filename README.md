@@ -9,7 +9,7 @@
 | - | ---- | ----------- |
 | 0 | Basic Projects | |
 | 1 | Data Engineering Projects | [Link](https://github.com/rstoltzm-profile/portfolio/blob/main/README.md#container-projects)|
-| 2 | Python Projects | [Link](https://github.com/rstoltzm-profile/portfolio/blob/main/projects/Python.md) |
+| 2 | Python Projects | [Link](Container)|
 
 ## Container Projects
 
