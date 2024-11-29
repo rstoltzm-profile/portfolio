@@ -17,7 +17,7 @@
 | - | ---- | ----------- | ----------- |
 | 1 | Simple Docker Testing | Basic Docker commands | [Link](https://github.com/rstoltzm-profile/docker-testing) |
 
-### Container Projects
+### Data Engineering Projects
 
 | # | Name | Desc | Repo |
 | - | ---- | ----------- | ----------- |
