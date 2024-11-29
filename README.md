@@ -9,9 +9,9 @@
 | - | ---- | ----------- |
 | 0 | Basic Projects | |
 | 1 | Data Engineering Projects | [Link](https://github.com/rstoltzm-profile/portfolio/blob/main/README.md#container-projects)|
-| 2 | Python Projects | [Link](Container)|
+| 2 | Python Projects | [Link](https://github.com/rstoltzm-profile/portfolio/blob/main/README.md#python-projects)|
 
-## Container Projects
+### Container Projects
 
 | # | Name | Desc | Repo |
 | - | ---- | ----------- | ----------- |
@@ -21,7 +21,7 @@
 | 4 | Postgres Load Stock Data | Load data into postgres db using python |[Link](https://github.com/rstoltzm-profile/container-postgres-stockdata)
 | 5 | Weather Data Pipeline | api source, python, kafka, topics, telegraf, influxdb, dashboards |[Link](https://github.com/rstoltzm-profile/weather-data-engineering)|
 
-## Python Projects
+### Python Projects
 
 | # | Name | Repo |
 | - | ---- | ----------- |
