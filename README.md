@@ -31,4 +31,4 @@
 | # | Name | Repo |
 | - | ---- | ----------- |
 | 1 | Python Basics | [Link](https://github.com/rstoltzm-profile/python-basics) |
-| 2 | python-data-manipulation | [Link](https://github.com/rstoltzm-profile/python-data-manipulation) |
+| 2 | Python Data Manipulation | [Link](https://github.com/rstoltzm-profile/python-data-manipulation) |
