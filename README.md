@@ -19,7 +19,7 @@
 | 2 | Postgres Container | Build a postgres db container | [Link](https://github.com/rstoltzm-profile/postgres-basics) |
 | 3 | Postgres Load Stock Data | Load data into postgres db using python |[Link](https://github.com/rstoltzm-profile/container-postgres-stockdata)
 | 4 | Weather Data Pipeline | api source, python, kafka, topics, telegraf, influxdb, dashboards |[Link](https://github.com/rstoltzm-profile/weather-data-engineering) |
-| 5 | Postgres Python ORM Task Manager | api, postgres, ORM, python Django, front end | [Link](https://github.com/rstoltzm-profile/postgres-django-orm-tasks) |
+| 5 | ORM Task Manager | api, postgres, ORM, python Django, front end | [Link](https://github.com/rstoltzm-profile/postgres-django-orm-tasks) |
 
 ### Java Projects
 | # | Name | Desc | Repo |
