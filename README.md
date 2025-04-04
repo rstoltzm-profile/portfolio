@@ -29,6 +29,7 @@
 
 ### Java Projects
 | # | Name | Desc | Repo |
+| - | ---- | ----------- | ----------- |
 | 1 | Java DB App | java, MySQL, maven, jdbc, api, docker | [Link](https://github.com/rstoltzm-profile/java-docker-db-app) |
 | 2 | Java calculator | java, basics, docker | [Link](https://github.com/rstoltzm-profile/java-calculator) | 
 
