@@ -5,12 +5,6 @@
 
 ## Projects Outline
 
-| # | Name | Repo |
-| - | ---- | ----------- |
-| 0 | Basic Projects | |
-| 1 | Data Engineering Projects | [Link](https://github.com/rstoltzm-profile/portfolio/blob/main/README.md#data-engineering-projects)|
-| 2 | Python Projects | [Link](https://github.com/rstoltzm-profile/portfolio/blob/main/README.md#python-projects)|
-
 ### Basic Projects
 
 | # | Name | Desc | Repo |
