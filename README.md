@@ -26,7 +26,11 @@
 | 3 | Postgres Load Stock Data | Load data into postgres db using python |[Link](https://github.com/rstoltzm-profile/container-postgres-stockdata)
 | 4 | Weather Data Pipeline | api source, python, kafka, topics, telegraf, influxdb, dashboards |[Link](https://github.com/rstoltzm-profile/weather-data-engineering) |
 | 5 | Postgres Python ORM Task Manager | api, postgres, ORM, python Django, front end | [Link](https://github.com/rstoltzm-profile/postgres-django-orm-tasks) |
-| 6 | Java DB App | java, MySQL, maven, jdbc, api, | [Link](https://github.com/rstoltzm-profile/java-docker-db-app) |
+
+### Java Projects
+| # | Name | Desc | Repo |
+| 1 | Java DB App | java, MySQL, maven, jdbc, api, docker | [Link](https://github.com/rstoltzm-profile/java-docker-db-app) |
+| 2 | Java calculator | java, basics, docker | [Link](https://github.com/rstoltzm-profile/java-calculator) | 
 
 ### Python Projects
 
