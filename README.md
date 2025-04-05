@@ -14,7 +14,7 @@ I also didn't want to over complicate my public portfolio.
 ### Multi-Stack
 * Focused on multiple components including database, backend, frontend
   
-| # | Name | Key_Words | Repo |
+| # | Name | Key Words | Repo |
 | - | ---- | ----------- | ----------- |
 | 1 | Postgres Load Stock Data | etl, postgres, database, python | [Link](https://github.com/rstoltzm-profile/container-postgres-stockdata) |
 | 2 | Weather Data Pipeline | api, python, kafka, topics, telegraf, influxdb, dashboards |[Link](https://github.com/rstoltzm-profile/weather-data-engineering) |
