@@ -5,7 +5,7 @@
 
 ## Intent
 <p>
-This portfolio is more for my personal development and documentation. These projects are more focused on getting started topics. This way if I need to build a solution I can come reference them in the future. 
+This portfolio is more for my personal development and documentation. These projects are more focused on getting started. This way if I need to build a solution I can come reference them in the future.
 </p>
 
 ## Projects Outline
