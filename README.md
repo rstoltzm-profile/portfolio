@@ -14,26 +14,26 @@ I also didn't want to over complicate my public portfolio.
 ### Multi-Stack
 * Focused on multiple components including database, backend, frontend
   
-| # | Name | Key Words | Repo |
+| # | Project | Repo |
 | - | ---- | ----------- | ----------- |
-| 1 | Postgres Load Stock Data | etl, postgres, database, python | [Link](https://github.com/rstoltzm-profile/container-postgres-stockdata) |
-| 2 | Weather Data Pipeline | api, python, kafka, topics, telegraf, influxdb, dashboards |[Link](https://github.com/rstoltzm-profile/weather-data-engineering) |
-| 3 | ORM Task Manager | api, postgres, ORM, python, Django, frontend | [Link](https://github.com/rstoltzm-profile/postgres-django-orm-tasks) |
+| 1 | Stock Data ETL using Postgres and Python | [Link](https://github.com/rstoltzm-profile/container-postgres-stockdata) |
+| 2 | Weather Data Pipeline with dashboards using InfluxDB, Telegrafa, Kafka, Grafana, Python | [Link](https://github.com/rstoltzm-profile/weather-data-engineering) |
+| 3 | ORM Task Manager using postgres, ORM, Django | [Link](https://github.com/rstoltzm-profile/postgres-django-orm-tasks) |
 
 
 ### Backend Projects
 * Focused on server-side applications and APIs
   
-| # | Name | Key Words | Repo |
+| # | Project | Repo |
 | - | ---- | ----------- | ----------- |
-| 1 | Java DB App | java, MySQL, maven, jdbc, api, docker | [Link](https://github.com/rstoltzm-profile/java-docker-db-app) |
+| 1 | Java DB App using java, MySQL, maven, docker | [Link](https://github.com/rstoltzm-profile/java-docker-db-app) |
 
 
-### Frontend Projects
+### Project Projects
 * Focused on web development, dashboards
   
-| # | Name | Key Words | Repo |
-| - | ---- | ----------- | ----------- |
+| # | Name |  Repo |
+| - | ---- | ----------- |
 
 ### Basic Projects
 * Focused on simple projects, building blocks, hello world type stuff
