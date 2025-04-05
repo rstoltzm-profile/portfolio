@@ -15,7 +15,7 @@ I also didn't want to over complicate my public portfolio.
 * Focused on multiple components including database, backend, frontend
   
 | # | Project | Repo |
-| - | ----------- | ----------- |
+| - | :---------- | :----------- |
 | 1 | Stock Data ETL using Postgres and Python | [Link](https://github.com/rstoltzm-profile/container-postgres-stockdata) |
 | 2 | Weather Data Pipeline with dashboards using InfluxDB, Telegrafa, Kafka, Grafana, Python | [Link](https://github.com/rstoltzm-profile/weather-data-engineering) |
 | 3 | ORM Task Manager using postgres, ORM, Django | [Link](https://github.com/rstoltzm-profile/postgres-django-orm-tasks) |
