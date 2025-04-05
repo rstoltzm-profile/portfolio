@@ -28,6 +28,13 @@ I also didn't want to over complicate my public portfolio.
 | - | :---------- | :----------- |
 | 1 | Java DB App using java, MySQL, maven, docker | [Link](https://github.com/rstoltzm-profile/java-docker-db-app) |
 
+### Database Projects
+* Focused on web development, dashboards
+  
+| # | Project | Repo |
+| - | :---------- | :----------- |
+| 1 | Terraform with AWS Cloud for PostgreSQL | Private |
+
 
 ### Frontend Projects
 * Focused on web development, dashboards
