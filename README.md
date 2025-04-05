@@ -29,10 +29,10 @@ I also didn't want to over complicate my public portfolio.
 | 1 | Java DB App using java, MySQL, maven, docker | [Link](https://github.com/rstoltzm-profile/java-docker-db-app) |
 
 
-### Project Projects
+### Frontend Projects
 * Focused on web development, dashboards
   
-| # | Name |  Repo |
+| # | Project | Repo |
 | - | :---------- | :----------- |
 
 ### Basic Projects
