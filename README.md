@@ -19,7 +19,7 @@ I also didn't want to over complicate my public portfolio.
 | 1 | Stock Data ETL using Postgres and Python | [Link](https://github.com/rstoltzm-profile/container-postgres-stockdata) |
 | 2 | Weather Data Pipeline with dashboards using InfluxDB, Kafka, Grafana, Python | [Link](https://github.com/rstoltzm-profile/weather-data-engineering) |
 | 3 | ORM Task Manager using postgres, ORM, Django, Python | [Link](https://github.com/rstoltzm-profile/postgres-django-orm-tasks) |
-| 4 | AWS EC2 Quantconnect Python AlgoTrader | Private, Proprietary Algorithms |
+| 4 | AWS EC2 Quantconnect Python AlgoTrader | Private |
 
 
 ### Backend Projects
