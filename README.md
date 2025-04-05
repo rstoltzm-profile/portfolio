@@ -5,7 +5,7 @@
 
 ## Portfolio Intent
 <p>
-This portfolio is more for my personal development and documentation. These projects are more focused on getting started and exploration.
+This portfolio is more for my personal development and documentation. These projects are more focused on exploration and architecture.
 </p>
 
 ## Projects
