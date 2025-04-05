@@ -34,7 +34,7 @@ I also didn't want to over complicate my public portfolio.
   
 | # | Project | Repo |
 | - | :---------- | :----------- |
-| 1 | Terraform with AWS Cloud for PostgreSQL | Private |
+| 1 | Terraform with AWS Cloud for PostgreSQL, wip | Private |
 
 
 ### Frontend Projects
