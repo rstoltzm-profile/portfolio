@@ -22,6 +22,7 @@ I also didn't want to over complicate my public portfolio.
 
 ### Backend Projects
 * Focused on server-side applications and APIs
+  
 | # | Name | Key Words | Repo |
 | - | ---- | ----------- | ----------- |
 | 1 | Java DB App | java, MySQL, maven, jdbc, api, docker | [Link](https://github.com/rstoltzm-profile/java-docker-db-app) |
@@ -29,11 +30,13 @@ I also didn't want to over complicate my public portfolio.
 
 ### Frontend Projects
 * Focused on web development, dashboards
-* | # | Name | Key Words | Repo |
+  
+| # | Name | Key Words | Repo |
 | - | ---- | ----------- | ----------- |
 
 ### Basic Projects
-
+* Focused on simple projects, building blocks, hello world type stuff
+  
 | # | Name | Key Words | Repo |
 | - | ---- | ----------- | ----------- |
 | 1 | Simple Docker Testing | Basic Docker commands | [Link](https://github.com/rstoltzm-profile/docker-testing) |
