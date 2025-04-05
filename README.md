@@ -2,6 +2,7 @@
 
 * My email: <rstoltzm@gmail.com>
 * My LinkedIn: [LinkedIn](https://www.linkedin.com/in/ryan-stoltzmann/)
+* This portfolio is more for my personal development and documentation. 
 
 ## Projects Outline
 
