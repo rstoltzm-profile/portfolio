@@ -25,7 +25,7 @@ I also didn't want to over complicate my public portfolio.
 * Focused on server-side applications and APIs
   
 | # | Project | Repo |
-| - | ----------- | ----------- |
+| - | :---------- | :----------- |
 | 1 | Java DB App using java, MySQL, maven, docker | [Link](https://github.com/rstoltzm-profile/java-docker-db-app) |
 
 
@@ -33,7 +33,7 @@ I also didn't want to over complicate my public portfolio.
 * Focused on web development, dashboards
   
 | # | Name |  Repo |
-| - | ----------- | ----------- |
+| - | :---------- | :----------- |
 
 ### Basic Projects
 * Focused on simple projects, building blocks, hello world type stuff
