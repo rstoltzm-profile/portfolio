@@ -19,14 +19,15 @@ I also didn't want to over complicate my public portfolio.
 | 1 | Postgres Load Stock Data | etl, postgres,  | [Link](https://github.com/rstoltzm-profile/container-postgres-stockdata) |
 | 2 | Weather Data Pipeline | api source, python, kafka, topics, telegraf, influxdb, dashboards |[Link](https://github.com/rstoltzm-profile/weather-data-engineering) |
 | 3 | ORM Task Manager | api, postgres, ORM, python Django, front end | [Link](https://github.com/rstoltzm-profile/postgres-django-orm-tasks) |
-| 4 | Java DB App | java, MySQL, maven, jdbc, api, docker | [Link](https://github.com/rstoltzm-profile/java-docker-db-app) |
+
 
 ### Backend Projects
 * Focused on server-side applications and APIs
   
 | # | Name | Key Words | Repo |
 | - | ---- | ----------- | ----------- |
-| 1 | Java calculator | java, basics, docker | [Link](https://github.com/rstoltzm-profile/java-calculator) | 
+| 1 | Java DB App | java, MySQL, maven, jdbc, api, docker | [Link](https://github.com/rstoltzm-profile/java-docker-db-app) |
+
 
 ### Frontend Projects
 * Focused on web development, dashboards
@@ -44,3 +45,4 @@ I also didn't want to over complicate my public portfolio.
 | 3 | Python Data Manipulation | [Link](https://github.com/rstoltzm-profile/python-data-manipulation) |
 | 4 | Kafka Container | Build a kafka container | [Link](https://github.com/rstoltzm-profile/KafkaProject) |
 | 5 | Postgres Container | postgres, database, docker | [Link](https://github.com/rstoltzm-profile/postgres-basics) |
+| 6 | Java calculator | java, basics, docker | [Link](https://github.com/rstoltzm-profile/java-calculator) | 
