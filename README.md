@@ -16,9 +16,9 @@ I also didn't want to over complicate my public portfolio.
   
 | # | Name | Key_Words | Repo |
 | - | ---- | ----------- | ----------- |
-| 1 | Postgres Load Stock Data | etl, postgres,  | [Link](https://github.com/rstoltzm-profile/container-postgres-stockdata) |
-| 2 | Weather Data Pipeline | api source, python, kafka, topics, telegraf, influxdb, dashboards |[Link](https://github.com/rstoltzm-profile/weather-data-engineering) |
-| 3 | ORM Task Manager | api, postgres, ORM, python Django, front end | [Link](https://github.com/rstoltzm-profile/postgres-django-orm-tasks) |
+| 1 | Postgres Load Stock Data | etl, postgres, database, python | [Link](https://github.com/rstoltzm-profile/container-postgres-stockdata) |
+| 2 | Weather Data Pipeline | api, python, kafka, topics, telegraf, influxdb, dashboards |[Link](https://github.com/rstoltzm-profile/weather-data-engineering) |
+| 3 | ORM Task Manager | api, postgres, ORM, python, Django, frontend | [Link](https://github.com/rstoltzm-profile/postgres-django-orm-tasks) |
 
 
 ### Backend Projects
