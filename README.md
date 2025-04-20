@@ -10,9 +10,7 @@ This portfolio is more for my personal development and documentation. These proj
 
 ## Projects
 
-# Core Components
-
-## Infrastructure
+### Infrastructure
 - **AWS**: Cloud services, EC2, S3
   - [vpc-ec2](https://github.com/rstoltzm-profile/terraform-aws-vpc-ec2)
   - [rds-terraform](https://github.com/rstoltzm-profile/terraform-aws-rds-simple)
@@ -32,39 +30,39 @@ This portfolio is more for my personal development and documentation. These proj
 - **Jenkins**: CI/CD
   - [simple](https://github.com/rstoltzm-profile/simple-python-pyinstaller-app)
 
-## Data Engineering
+### Data Engineering
 - **Python**: pandas, numpy, scripting
   - [stock](https://github.com/rstoltzm-profile/container-postgres-stockdata)
   - [weather](https://github.com/rstoltzm-profile/weather-data-engineering)
   - [stock-algo](https://github.com/rstoltzm-profile/backtrader_app_2)
 
-## Database
+### Database
 - **PostgreSQL**: RDBMS, SQL, AlloyDB
   - [pgdb](https://github.com/rstoltzm-profile/container-postgres-stockdata)
   - [rds-terraform](https://github.com/rstoltzm-profile/terraform-aws-rds-simple)
 - **ORMs**: sqlalchemy
   - [todo-orm](https://github.com/rstoltzm-profile/python-fastapi-todolist)
 
-## Streaming
+### Streaming
 - **Apache Kafka**: Event streaming, message broker, real-time data
   - [weather](https://github.com/rstoltzm-profile/weather-data-engineering)
 
-## API Development
+### API Development
 - **Python FastAPI**:
   - [fastapi](https://github.com/rstoltzm-profile/python-fastapi-todolist)
   - [k8-react-orm-api](https://github.com/rstoltzm-profile/kubernetes-react-orm-db)
 - **Java API**:
   - [db-app](https://github.com/rstoltzm-profile/java-docker-db-app)
 
-## Observability and Visualizations
+### Observability and Visualizations
 - **InfluxDB/telegraf**:
   - [weather](https://github.com/rstoltzm-profile/weather-data-engineering)
 
-## Front-end
+### Front-end
 - **React TypeScript**: Front-end
   - [k8-react-orm-api](https://github.com/rstoltzm-profile/kubernetes-react-orm-db)
 
-## Languages
+### Languages
 - **Java**:
   - [calc](https://github.com/rstoltzm-profile/java-calculator)
 
