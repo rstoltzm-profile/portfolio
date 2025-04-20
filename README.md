@@ -10,39 +10,61 @@ This portfolio is more for my personal development and documentation. These proj
 
 ## Projects
 
-### Multi-Stack
-* Focused on multiple components including database, backend, frontend
-  
-| # | Project | Repo |
-| - | :---------- | :----------- |
-| 1 | Stock Data ETL using Postgres and Python | [Link](https://github.com/rstoltzm-profile/container-postgres-stockdata) |
-| 2 | Weather Data Pipeline using InfluxDB, Kafka, Grafana, Python | [Link](https://github.com/rstoltzm-profile/weather-data-engineering) |
-| 3 | ORM Task Manager using postgres, ORM, Django, Python | [Link](https://github.com/rstoltzm-profile/postgres-django-orm-tasks) |
-| 4 | AWS EC2 Quantconnect Python AlgoTrader | [Link](https://github.com/rstoltzm-profile/portfolio/blob/main/docs/algo-trader.md) |
+# Core Components
 
+## Infrastructure
+- **AWS**: Cloud services, EC2, S3
+  - [vpc-ec2](https://github.com/rstoltzm-profile/terraform-aws-vpc-ec2)
+  - [rds-terraform](https://github.com/rstoltzm-profile/terraform-aws-rds-simple)
+- **GCP**: Cloud platform, BigQuery, Compute Engine
+  - [tf-vpc-vm](https://github.com/rstoltzm-profile/gcp-tf-vpc-vm-simple/tree/main) 
+- **Kubernetes**: Container orchestration, clusters, pods
+  - [k8-react-orm-api](https://github.com/rstoltzm-profile/kubernetes-react-orm-db)
+- **Terraform**: Infrastructure as code, provisioning, automation
+  - [aws-vpc](https://github.com/rstoltzm-profile/terraform-aws-vpc-ec2)
+  - [aws-rds](https://github.com/rstoltzm-profile/terraform-aws-rds-simple)
+- **Docker**: Containerization, images, microservices
+  - [java](https://github.com/rstoltzm-profile/java-docker-db-app/tree/main)
+  - [kafka](https://github.com/rstoltzm-profile/docker-kafka-project)
+  - [simple](https://github.com/rstoltzm-profile/docker-testing)
+  - [fastapi](https://github.com/rstoltzm-profile/python-fastapi-todolist)
+  - [pgdb](https://github.com/rstoltzm-profile/container-postgres-stockdata)
+- **Jenkins**: CI/CD
+  - [simple](https://github.com/rstoltzm-profile/simple-python-pyinstaller-app)
 
-### Backend Projects
-* Focused on server-side applications and APIs
-  
-| # | Project | Repo |
-| - | :---------- | :----------- |
-| 1 | Java DB App using java, MySQL, maven, docker | [Link](https://github.com/rstoltzm-profile/java-docker-db-app) |
+## Data Engineering
+- **Python**: pandas, numpy, scripting
+  - [stock](https://github.com/rstoltzm-profile/container-postgres-stockdata)
+  - [weather](https://github.com/rstoltzm-profile/weather-data-engineering)
+  - [stock-algo](https://github.com/rstoltzm-profile/backtrader_app_2)
 
-### Database Projects
-* Focused on infrastructure and database management
-  
-| # | Project | Repo |
-| - | :---------- | :----------- |
-| 1 | Terraform with AWS Cloud for PostgreSQL, wip | Private |
+## Database
+- **PostgreSQL**: RDBMS, SQL, AlloyDB
+  - [pgdb](https://github.com/rstoltzm-profile/container-postgres-stockdata)
+  - [rds-terraform](https://github.com/rstoltzm-profile/terraform-aws-rds-simple)
+- **ORMs**: sqlalchemy
+  - [todo-orm](https://github.com/rstoltzm-profile/python-fastapi-todolist)
 
-### Basic Projects
-* Focused on simple projects, building blocks, hello world type stuff
-  
-| # | Name | Key Words | Repo |
-| - | ---- | ----------- | ----------- |
-| 1 | Simple Docker Testing | docker | [Link](https://github.com/rstoltzm-profile/docker-testing) |
-| 2 | Python Basics | python | [Link](https://github.com/rstoltzm-profile/python-basics) |
-| 3 | Python Data Manipulation | python, pandas |[Link](https://github.com/rstoltzm-profile/python-data-manipulation) |
-| 4 | Kafka Container | docker, kafka | [Link](https://github.com/rstoltzm-profile/KafkaProject) |
-| 5 | Postgres Container | postgres, database, docker | [Link](https://github.com/rstoltzm-profile/postgres-basics) |
-| 6 | Java calculator | java, basics, docker | [Link](https://github.com/rstoltzm-profile/java-calculator) | 
+## Streaming
+- **Apache Kafka**: Event streaming, message broker, real-time data
+  - [weather](https://github.com/rstoltzm-profile/weather-data-engineering)
+
+## API Development
+- **Python FastAPI**:
+  - [fastapi](https://github.com/rstoltzm-profile/python-fastapi-todolist)
+  - [k8-react-orm-api](https://github.com/rstoltzm-profile/kubernetes-react-orm-db)
+- **Java API**:
+  - [db-app](https://github.com/rstoltzm-profile/java-docker-db-app)
+
+## Observability and Visualizations
+- **InfluxDB/telegraf**:
+  - [weather](https://github.com/rstoltzm-profile/weather-data-engineering)
+
+## Front-end
+- **React TypeScript**: Front-end
+  - [k8-react-orm-api](https://github.com/rstoltzm-profile/kubernetes-react-orm-db)
+
+## Languages
+- **Java**:
+  - [calc](https://github.com/rstoltzm-profile/java-calculator)
+
