@@ -14,6 +14,7 @@ This portfolio is more for my personal development and documentation. These proj
 - **AWS**: Cloud services, EC2, S3
   - [vpc-ec2](https://github.com/rstoltzm-profile/terraform-aws-vpc-ec2)
   - [rds-terraform](https://github.com/rstoltzm-profile/terraform-aws-rds-simple)
+  - [cloudformation-vpc-ec2-design](https://github.com/rstoltzm-profile/aws-cloudformation-project)
 - **GCP**: Cloud platform, BigQuery, Compute Engine
   - [tf-vpc-vm](https://github.com/rstoltzm-profile/gcp-tf-vpc-vm-simple/tree/main) 
 - **Kubernetes**: Container orchestration, clusters, pods
