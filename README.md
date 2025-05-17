@@ -11,7 +11,9 @@ This portfolio is more for my personal development and documentation. These proj
 ## Projects
 
 ### Infrastructure
-- [![SadServers Level](https://img.shields.io/badge/SadServers-Intermediate-2962FF?style=for-the-badge&labelColor=FFC400&logo=ansible&logoColor=1A237E&logoSize=auto)](https://sadservers.com)
+- [![SadServers Level](https://img.shields.io/badge/SadServers-Advanced-7B1FA2?style=for-the-badge&labelColor=FFC400&logo=terraform&logoColor=1A237E&logoSize=auto)](https://sadservers.com)
+
+  
 - **AWS**: Cloud services, EC2, S3
   - [vpc-ec2](https://github.com/rstoltzm-profile/terraform-aws-vpc-ec2)
   - [rds-terraform](https://github.com/rstoltzm-profile/terraform-aws-rds-simple)
