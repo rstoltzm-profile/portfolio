@@ -8,6 +8,9 @@
 This portfolio is more for my personal development and documentation. These projects are more focused on exploration and architecture.
 </p>
 
+## Most Recent
+- **GO Calculator**: Go lang, cicd, tdd, cli, Makefile, shell, cross platform [repo](https://github.com/rstoltzm-profile/go-calculator) 
+
 ## Projects
 
 ### Infrastructure
@@ -65,6 +68,8 @@ This portfolio is more for my personal development and documentation. These proj
   - [k8-react-orm-api](https://github.com/rstoltzm-profile/kubernetes-react-orm-db)
 
 ### Languages
+- **GO**: cicd, tdd, cli, validation, Makefile
+  - [Calculator](https://github.com/rstoltzm-profile/go-calculator)
 - **Java**:
   - [calc](https://github.com/rstoltzm-profile/java-calculator)
 
