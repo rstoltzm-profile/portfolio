@@ -9,7 +9,7 @@ This portfolio is more for my personal development and documentation. These proj
 </p>
 
 ## Most Recent
-- **[GO Calculator]**(https://github.com/rstoltzm-profile/go-calculator): Go lang, cicd, tdd, cli, Makefile, shell, cross platform
+- [GO Calculator](https://github.com/rstoltzm-profile/go-calculator): Go lang, cicd, tdd, cli, Makefile, shell, cross platform
 
 ## Projects
 
