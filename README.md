@@ -9,6 +9,7 @@ This portfolio is more for my personal development and documentation. These proj
 </p>
 
 ## Most Recent
+- [GO Movie Rental API](https://github.com/rstoltzm-profile/video-rental-api): Go lang, restful api, postgresql, modular api
 - [GO CLI tool](https://github.com/rstoltzm-profile/go-boilerplate/tree/main/go-cli-files): Go lang, cli, template, Makefile, Windows, Linux, env vars
 - [GO Calculator](https://github.com/rstoltzm-profile/go-calculator): Go lang, cicd, tdd, cli, Makefile, shell, cross platform
 
