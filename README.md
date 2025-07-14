@@ -55,6 +55,8 @@ This portfolio is more for my personal development and documentation. These proj
   - [weather](https://github.com/rstoltzm-profile/weather-data-engineering)
 
 ### API Development
+- **GO API**:
+  - [GO Movie Rental API](https://github.com/rstoltzm-profile/video-rental-api): Go lang, restful api, postgresql, modular api
 - **Python FastAPI**:
   - [fastapi](https://github.com/rstoltzm-profile/python-fastapi-todolist)
   - [k8-react-orm-api](https://github.com/rstoltzm-profile/kubernetes-react-orm-db)
