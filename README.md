@@ -74,7 +74,7 @@ This portfolio is more for my personal development and documentation. These proj
 
 ### Languages
 - **GO**: cicd, tdd, cli, validation, Makefile
-  - [Calculator](https://github.com/rstoltzm-profile/go-calculator)
+  - [Calculator](https://github.com/rstoltzm-profile/go-calculator): Go lang, basics
   - [GO CLI tool](https://github.com/rstoltzm-profile/go-boilerplate/tree/main/go-cli-files): Go lang, cli, template, Makefile, Windows, Linux, env vars
 - **Java**:
   - [calc](https://github.com/rstoltzm-profile/java-calculator)
