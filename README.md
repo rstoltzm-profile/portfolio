@@ -11,7 +11,7 @@ This portfolio is more for my personal development and documentation. These proj
 ## Most Recent
 - [FrontEnd - Django Web App for Movie Rental](https://github.com/rstoltzm-profile/video-rental-portal-django): Python, Django, FrontEnd, api
 - [Backend API - GO Movie Rental](https://github.com/rstoltzm-profile/video-rental-api): Go lang, restful api, postgresql, modular api
-- 
+
 ## Projects
 
 ### Infrastructure
