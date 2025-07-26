@@ -9,10 +9,9 @@ This portfolio is more for my personal development and documentation. These proj
 </p>
 
 ## Most Recent
-- [GO Movie Rental API](https://github.com/rstoltzm-profile/video-rental-api): Go lang, restful api, postgresql, modular api
-- [GO CLI tool](https://github.com/rstoltzm-profile/go-boilerplate/tree/main/go-cli-files): Go lang, cli, template, Makefile, Windows, Linux, env vars
-- [GO Calculator](https://github.com/rstoltzm-profile/go-calculator): Go lang, cicd, tdd, cli, Makefile, shell, cross platform
-
+- [FrontEnd - Django Web App for Movie Rental](https://github.com/rstoltzm-profile/video-rental-portal-django): Python, Django, FrontEnd, api
+- [Backend API - GO Movie Rental](https://github.com/rstoltzm-profile/video-rental-api): Go lang, restful api, postgresql, modular api
+- 
 ## Projects
 
 ### Infrastructure
@@ -68,12 +67,15 @@ This portfolio is more for my personal development and documentation. These proj
   - [weather](https://github.com/rstoltzm-profile/weather-data-engineering)
 
 ### Front-end
+- **Python Django**: Front-end
+  - [Django Web App for Movie Rental](https://github.com/rstoltzm-profile/video-rental-portal-django): Python, Django, FrontEnd, api 
 - **React TypeScript**: Front-end
   - [k8-react-orm-api](https://github.com/rstoltzm-profile/kubernetes-react-orm-db)
 
 ### Languages
 - **GO**: cicd, tdd, cli, validation, Makefile
   - [Calculator](https://github.com/rstoltzm-profile/go-calculator)
+  - [GO CLI tool](https://github.com/rstoltzm-profile/go-boilerplate/tree/main/go-cli-files): Go lang, cli, template, Makefile, Windows, Linux, env vars
 - **Java**:
   - [calc](https://github.com/rstoltzm-profile/java-calculator)
 
